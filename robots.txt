@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tlucsx333s.online/sitemap.xml
